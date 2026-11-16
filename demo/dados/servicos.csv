@@ -1,0 +1,7 @@
+camada,servico,status
+Apresentacao,Front-end (navegador),ONLINE
+Aplicacao,API do Supervisorio,ONLINE
+Aplicacao,Servico de Video,ONLINE
+Dados,Banco de Dados,ONLINE
+Dados,Arquivo de Logs,ONLINE
+Campo,Gateway CLP/Robo,ONLINE

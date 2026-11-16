@@ -1,0 +1,4 @@
+usuario,senha,perfil,nome
+operador,1234,OPERADOR,Operador de Linha
+supervisor,1234,SUPERVISOR,Supervisor de Producao
+admin,admin,ADMIN,Administrador do Sistema

@@ -1,0 +1,6 @@
+dispositivo,ip,ultimo_ping_ms
+CLP Principal,192.168.0.10,12
+Robo Industrial,192.168.0.20,35
+Camera de Inspecao,192.168.0.30,480
+Servidor Web,192.168.0.5,8
+IHM Linha 2,192.168.0.40,2500
